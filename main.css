@@ -81,7 +81,7 @@ h3 {
   margin: 0;
   min-width: 120px;
   border-radius: 5px;
-  z-index: 1;
+  z-index: 1  ;
 }
 
 .language-dropdown .language-list li a {
@@ -233,15 +233,14 @@ justify-content: center ;
   width: 30px;
   position: relative;
   top: 0.8rem;
-  left: 19rem;
+  left: 18rem;
   color: #8f9ee1;
   cursor: pointer;
 }
 .menu-home {
   display: flex;
   justify-content: center; 
-  align-items: center;
-  height: 100%; 
+  /* align-items: center; */
   background: #f0f0f0; 
 }
 
